@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BancoPratica</string>
+    <string name="inserir_alunos">Inserir Alunos</string>
+    <string name="listar_alunos">Listar Alunos</string>
+    <string name="resultado">Resultado</string>
+    <string name="inserir_disciplinas">Inserir Disciplinas</string>
+    <string name="listar_disciplinas">Listar Disciplinas</string>
+    <string name="mostrar_primeiro_aluno">Mostrar primeiro aluno</string>
+    <string name="deletar_aluno">Deletar Aluno</string>
+    <string name="atualizar_aluno">Atualizar Aluno</string>
+    <string name="lista_de_alunos">Lista de Alunos</string>
+    <string name="novo_aluno">Novo Aluno</string>
+    <string name="aluno">Aluno</string>
+    <string name="id">Id</string>
+    <string name="inserir_novo_aluno">Inserir Novo Aluno</string>
+    <string name="digite_o_nome_do_aluno">Digite o nome do aluno</string>
+    <string name="digite_o_nome_da_disciplina">Digite o nome da disciplina</string>
+    <string name="salvar">Salvar</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="nova_disciplina">Nova Disciplina</string>
+    <string name="editar_aluno">Editar Aluno</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="inserir_nova_disciplina">Inserir Nova Disciplina</string>
+    <string name="atualizar_disciplina">Atualizar Disciplina</string>
+</resources>
